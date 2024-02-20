@@ -1,0 +1,16 @@
+import numpy as np
+
+WIDTH = 600
+HEIGHT = 600
+THIRD_WIDTH = WIDTH // 3
+THIRD_HEIGHT = HEIGHT // 3
+
+BOARD_ROWS = 3
+BOARD_COLS = 3
+board = np.zeros((BOARD_ROWS, BOARD_COLS))
+
+COLOR = (23, 145, 135)
+GRAY = (84, 84, 84)
+SAND = (242, 235, 211)
+BG_COLOR = (28, 170, 156)
+BLACK = (0, 0, 0)
