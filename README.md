@@ -27,18 +27,3 @@ The game is a two-player game played on a grid that's 3 squares by 3 squares. Pl
 
 If you encounter any problems, please contact the project maintainers or submit an issue on the project's issues page.
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-- 0.1
-  - Initial Release
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.txt) - see the LICENSE file for details.
