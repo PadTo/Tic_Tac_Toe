@@ -7,8 +7,6 @@ THIRD_HEIGHT = HEIGHT // 3
 
 BOARD_ROWS = 3
 BOARD_COLS = 3
-board = np.zeros((BOARD_ROWS, BOARD_COLS))
-
 COLOR = (23, 145, 135)
 GRAY = (84, 84, 84)
 SAND = (242, 235, 211)
