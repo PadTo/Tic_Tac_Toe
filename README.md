@@ -6,6 +6,8 @@ This is a simple implementation of the classic game Tic Tac Toe in Python using 
 
 The game is a two-player game played on a grid that's 3 squares by 3 squares. Player 1 is represented by O, and Player 2 is represented by X. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner. When all 9 squares are full, the game is over.
 
+To restart the game simply press (r) on the keyboard
+
 ## Getting Started
 
 ### Dependencies
